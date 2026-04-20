@@ -75,9 +75,9 @@ This showed stable behaviour and performance above random guessing, while also e
 
 ## Files
 
-- `src/rm828.java` – main Java implementation
-- `data/PriceData.csv` – input dataset
-- `docs/RM828.pdf` – project report
+- `rm828.java` – main Java implementation
+- `PriceData.csv` – input dataset
+- `RM828.pdf` – project report
 
 ## How to Run
 
